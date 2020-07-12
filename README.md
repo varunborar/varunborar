@@ -3,9 +3,10 @@
 <img src ="https://github.com/varunborar/varunborar/blob/master/Banner1edit.png">
 <img src="https://github.com/varunborar/varunborar/blob/master/Banner2edit.png">
 <h1>Contact Me<h1>
-           <a href = "mailto:varunborar@gmail.com"> E-mail </a> <br>
-           <a href = "https://www.linkedin.com/in/varun-borar/"> LinkedIN </a> <br>
-           <a href = "https://www.behance.net/varunborar"> Behance </a> 
+        <h4>   <a href = "mailto:varunborar@gmail.com">     E-mail </a> <br>
+               <a href = "https://www.linkedin.com/in/varun-borar/">     LinkedIN </a> <br>
+               <a href = "https://www.behance.net/varunborar">     Behance </a>
+        </h4>
 
 
 <!--
