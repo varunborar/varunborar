@@ -2,6 +2,10 @@
 
 <img src ="https://github.com/varunborar/varunborar/blob/master/Banner1edit.png">
 <img src="https://github.com/varunborar/varunborar/blob/master/Banner2edit.png">
+<h1>Contact ME<h1>
+           <a href = "mailto:varunborar@gmail.com> E-Mail </a> <br>
+           <a href = "https://www.linkedin.com/in/varun-borar/"> LinkedIN </a> <br>
+
 
 <!--
 **varunborar/varunborar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
