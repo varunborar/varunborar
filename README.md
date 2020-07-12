@@ -1,4 +1,4 @@
-### Hi there 👋, I am Varun Borar
+<!-- ### Hi there 👋, I am Varun Borar -->
 
 <img src ="">
 
