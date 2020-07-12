@@ -1,6 +1,7 @@
 <!-- ### Hi there 👋, I am Varun Borar -->
 
 <img src ="https://github.com/varunborar/varunborar/blob/master/Banner1edit.png">
+<img src="https://github.com/varunborar/varunborar/blob/master/Banner2edit.png">
 
 <!--
 **varunborar/varunborar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
